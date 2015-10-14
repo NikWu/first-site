@@ -6,3 +6,12 @@ html{
 h1 {
 	color: red;
 }
+
+a {
+	color: red;
+    font-size: 5rem;
+}
+
+p {
+	padding: 60px 150px;
+}
